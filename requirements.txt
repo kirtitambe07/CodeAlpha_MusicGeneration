@@ -1,0 +1,5 @@
+tensorflow
+music21
+numpy
+matplotlib
+pretty_midi
